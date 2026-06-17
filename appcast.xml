@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Quack</title>
+        <item>
+            <title>1.3</title>
+            <pubDate>Wed, 17 Jun 2026 13:24:44 +0300</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/AndrewMatsiuk/Quack-releases/releases/download/v1.3/Quack-1.3.zip" length="6514309" type="application/octet-stream" sparkle:edSignature="1AV99qJe0IutGOLR9UOue51hZBDL9c91W0HFJbMI/B7decpF5eMBJUYO+toZz0vqegFHYN/RIveRP/ahnPZuCg=="/>
+        </item>
+    </channel>
+</rss>
